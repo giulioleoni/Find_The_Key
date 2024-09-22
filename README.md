@@ -1,2 +1,40 @@
 # First_Year_Project
- AIV first year final project
+
+This is the final project of the first year of AIV in which to utilize all the knowledge gained during the year
+
+Here's the full YT [video](https://www.youtube.com/watch?v=fLkiEce2PEA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
