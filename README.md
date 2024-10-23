@@ -8,7 +8,7 @@ Here's the full YT [video](https://www.youtube.com/watch?v=fLkiEce2PEA)
 
 ## Engine
 
-The project was written all in C#, using the classes and interfaces developed during the year, which created a small 2D Unity-like engine.
+The project was scripted all in C#, using the classes and interfaces developed during the year, which created a small 2D Unity-like engine.
 
 | **Features** | **Description**                                                                                                              |
 |--------------|------------------------------------------------------------------------------------------------------------------------------|
