@@ -2,13 +2,13 @@
 
 This is the final project of the first year of AIV in which to utilize all the knowledge of C# gained during the year.
 
-The goal was to create a 2d point-and-click where you have to explore the map to find a key and open a door that will lead you to the room with treasures. There is also a power-up for movement speed and an npc that will ask you a question and if it is answered correctly will reveal the location of the key.
+The goal was to create a 2D point-and-click where you have to explore the map to find a key and open a door that will lead you to the room with treasures. There is also a power-up for movement speed and an npc that will ask you a question and if it is answered correctly will reveal the location of the key.
 
 Here's the full YT [video](https://www.youtube.com/watch?v=fLkiEce2PEA)
 
 ## Engine
 
-The project was written all in C#, using the classes and interfaces developed during the year, which created a small Unity-like engine.
+The project was written all in C#, using the classes and interfaces developed during the year, which created a small 2D Unity-like engine.
 
 | **Features** | **Description**                                                                                                              |
 |--------------|------------------------------------------------------------------------------------------------------------------------------|
