@@ -1,14 +1,14 @@
 # First_Year_Project
 
-This is the final project of the first year of AIV in which to utilize all the knowledge of C# gained during the year.
+This is the final project of the **first year** of A.I.V. in which to utilize all the knowledge of C# gained during the year.
 
-The goal was to create a 2D point-and-click where you have to explore the map to find a key and open a door that will lead you to the room with treasures. There is also a power-up for movement speed and an npc that will ask you a question and if it is answered correctly will reveal the location of the key.
+The goal was to create a 2D **point-and-click** where you have to explore the map to find a key and open a door that will lead you to the room with treasures. There is also a power-up for movement speed and an NPC that will ask you a question and if you answer correctly it will reveal the location of the key.
 
 Here's the full YT [video](https://www.youtube.com/watch?v=fLkiEce2PEA)
 
 ## Engine
 
-The project was scripted all in C#, using the classes and interfaces developed during the year, which created a small 2D Unity-like engine.
+The project was **scripted** all in **C#**, using the classes and interfaces developed during the year, which created a small **2D Unity-like engine**.
 
 | **Features** | **Description**                                                                                                              |
 |--------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -57,9 +57,9 @@ https://github.com/user-attachments/assets/2444fe82-fe66-48e8-b9b0-5757949e477b
 
 ## Scene
 
-At the start of the game a scene will be created that will load the maps, GameObjects and music.
+At the start of the game a scene will be created that will load all assets (maps, game objects, musics).
 
-The scene will check if the player has reached a point where it is necessary to change map and will proceed to clear the current map and load the new one.
+The scene update will be check if the player has reached a point where it is necessary to change map and it will proceed to clear the current map and load the new one.
 
 
 
