@@ -34,7 +34,7 @@ The project was **scripted** all in **C#**, using the classes and interfaces dev
 
 ## Map
 
-The maps were created using [Tiled](https://www.mapeditor.org/) and were then imported into the project as TMX files.
+The maps were created using [Tiled](https://www.mapeditor.org/) and were imported into the project as *TMX files*.
 
 The files were then parsed to reconstruct the correct map.
 
