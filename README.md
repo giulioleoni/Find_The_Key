@@ -13,18 +13,14 @@ The project was **scripted** all in **C#**, using the classes and interfaces dev
 | **Features** | **Description**                                                                                                              |
 |--------------|------------------------------------------------------------------------------------------------------------------------------|
 | Camera       | Possible to manage multiple cameras (parallax scrolling)<br>Different camera behaviors                                       |
-| Animation    | Animation component to create 2d animations <br>Possible to choose fps and whether to loop the animation                     |
-| Sound        | Possible to create a sound emitter component, <br>for both sound effects and  music                                          |
+| Animation    | Animation component to create 2d animations <br>Possible to choose frame rate and whether to loop the animation              |
+| Sound        | Possible to create a sound emitter component <br>for both sound effects and  music                                           |
 | UI           | Possible to manage multiple fonts<br>Possible to create 2d texts                                                             |
-| Physics      | RigidBody 2d<br>Possible to create box and circle collider 2d<br>Possible to create a collider compound of circles and boxes |
-| Pathfinding  | Possible to create pathfinding maps<br>Possible to create pathfinding agents                                                |
+| Physics      | RigidBody 2d implementation <br>Possible to create box and circle collider 2d<br>Possible to create a collider composed of circles and boxes |
+| Pathfinding  | Possible to create pathfinding maps<br>Possible to create pathfinding agents                                                 |
 | Scene        | Possible to manage multiple scenes                                                                                           |
 | GameObjects  | Possible to create GameObjects, Actors and Players                                                                           |
 
-    
-![photo_1_2024-09-22_16-55-26](https://github.com/user-attachments/assets/1c607b84-6975-4e46-b966-10fc77499eb9) 
-
-![photo_2_2024-09-22_16-55-26](https://github.com/user-attachments/assets/31384168-da3b-43ed-adc5-a3e7015a8de5)
 
 > **_Draw and Update:_**  Drawable and Updatable objects (every class that implements the related interfaces) will be added to a static manager (one for Draw and one for Update) that will be responsible for executing all Draw and Update methods for the items that have registered.
 
